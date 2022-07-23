@@ -1,0 +1,13 @@
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\bin\Debug\Collection_Intro.exe.config
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\bin\Debug\Collection_Intro.exe
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\bin\Debug\Collection_Intro.pdb
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.csproj.AssemblyReference.cache
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.csproj.SuggestedBindingRedirects.cache
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.Form1.resources
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.Properties.Resources.resources
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.csproj.GenerateResource.cache
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.csproj.CoreCompileInputs.cache
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.exe
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.pdb
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.DictionaryForm.resources
+C:\MyWorkspace\MyWorkSpaceGit\Collection_Intro\Collection_Intro\obj\Debug\Collection_Intro.StudentForm.resources
